@@ -1,0 +1,11 @@
+[package]
+name = "autorace-client"
+version = "0.1.0"
+authors = ["Kenkou Nakamura <knakamura@indeed.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+scraper = "0.10"
+reqwest = "0.9"
